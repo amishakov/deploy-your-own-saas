@@ -17,6 +17,7 @@ stateless OpenVPN dockerized server which doesn't require persistent storage.
 - [Funkwhale](https://funkwhale.audio/) — web-based music library with Airsonic compatibility. [(GitLab)](https://dev.funkwhale.audio/funkwhale/funkwhale)
 - [AzuraCast](https://www.azuracast.com/) — web radio management suite, with a modern web app. [(GitHub)](https://github.com/AzuraCast/AzuraCast)
 - [Black Candy](https://github.com/blackcandy-org/blackcandy) — music streaming server with web UI and iOS/Android apps.
+- [Audiobookshelf](https://audiobookshelf.org) — audiobook and podcast server. [(GitHub)](https://github.com/advplyr/audiobookshelf)
 
 ### 📷 Deploy your own `Photo hosting`
 - [Immich](https://immich.app/) — high performance photo and video solution with familiar UI. [(GitHub)](https://github.com/immich-app/immich)
